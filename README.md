@@ -1,7 +1,6 @@
 # mint-backgrounds-maya
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-maya?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-maya-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-maya-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-maya)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-maya`. Instead of building the
